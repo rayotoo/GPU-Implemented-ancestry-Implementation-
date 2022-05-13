@@ -17,6 +17,8 @@ The ancestry will be inferred using the SNPs of from the whole genome sequence.
 
 # Data set
 The data set used for this study was obtained from the 1000 Genome’s project.
+  + Data has been provided in the data directory in this reposotory. 
+  + NB: Only Chr1 was considered and a compressed file for its data is provided.
 
 # Machine Learning Algorithms
 Some selected machine learning algorithms were implemented on the dataset and their respective performances were evaluated and compared against each other in terms of performance.
