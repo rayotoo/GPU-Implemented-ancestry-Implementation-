@@ -26,7 +26,7 @@ Some selected machine learning algorithms were implemented on the dataset and th
 
 # Conclusion
 At the end of this study;
-  + Some machine learning algorithms were identified (RF, SVM, KNN and MLP) among othersthat were run on the test data to be “relatively better” performers.
+  + Some machine learning algorithms were identified (RF, SVM, KNN and MLP) among others that were run on the test data to be “relatively better” performers.
   + The top 100 most important SNPs (SNP ids) related to ancestry on chromosome 1 were identified.
 
 # Future directions to improve performance
