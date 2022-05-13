@@ -24,10 +24,10 @@ Some selected machine learning algorithms were implemented on the dataset and th
 
 # Conclusion
 At the end of this study;
-  Some machine learning algorithms were identified (RF, SVM, KNN and MLP) among othersthat were run on the test data to be “relatively better” performers.
-  The top 100 most important SNPs (SNP ids) related to ancestry on chromosome 1 were identified.
+  + Some machine learning algorithms were identified (RF, SVM, KNN and MLP) among othersthat were run on the test data to be “relatively better” performers.
+  + The top 100 most important SNPs (SNP ids) related to ancestry on chromosome 1 were identified.
 
 # Future directions to improve performance
-More chromosomes will  be included in training subsequent models.
-More functions for GPU processing will be included.
-A model that can predict an individual’s ancestry based on a relatively small subsection of their DNA will be developed
+  + More chromosomes will  be included in training subsequent models.
+  + More functions for GPU processing will be included.
+  + A model that can predict an individual’s ancestry based on a relatively small subsection of their DNA will be developed
