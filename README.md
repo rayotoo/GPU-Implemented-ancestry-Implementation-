@@ -32,4 +32,4 @@ At the end of this study;
 # Future directions to improve performance
   + More chromosomes will  be included in training subsequent models.
   + More functions for GPU processing will be included.
-  + A model that can predict an individual’s ancestry based on a relatively small subsection of their DNA will be developed
+  + A model that can predict an individual’s ancestry based on a relatively small subsection of their DNA will be developed.
