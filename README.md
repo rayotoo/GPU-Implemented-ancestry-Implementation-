@@ -12,4 +12,4 @@ The data set used for this study was obtained from the 1000 Genome’s project.
 # Machine Learning Algorithms
 Some selected machine learning algorithms were implemented on the dataset and their respective performances were evaluated and compared against each other in terms of performance.
 
-![image](https://user-images.githubusercontent.com/54042594/168328949-74a82ca5-d8ca-4b59-a332-8db126d475e5.png)
+
